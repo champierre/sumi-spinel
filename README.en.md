@@ -1,4 +1,6 @@
-# sumi, rewritten in Spinel
+# sumi-spinel
+
+English | [日本語](README.md)
 
 [champierre/sumi](https://github.com/champierre/sumi) converts the colours of a
 PDF to grayscale or black-and-white without rasterizing it: it rewrites the
@@ -8,8 +10,6 @@ fonts and vector geometry alone. It is written in Rust.
 This is a rewrite of it in the Ruby subset that [Spinel](https://github.com/matz/spinel),
 Matz's ahead-of-time Ruby compiler, turns into a native binary — together with
 the measurements comparing the two.
-
-English | [日本語](README.md)
 
 ```
 sumi-spinel/

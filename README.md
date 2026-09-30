@@ -1,4 +1,6 @@
-# sumi を Spinel で書き直す
+# sumi-spinel
+
+[English](README.en.md) | 日本語
 
 [champierre/sumi](https://github.com/champierre/sumi) は、PDF を画像化せずに
 色指定だけを書き換えてグレースケール／白黒 2 値に変換する Rust 製のツールです。
@@ -6,8 +8,6 @@
 これはその sumi を、Matz の AOT Ruby コンパイラ
 [Spinel](https://github.com/matz/spinel) が扱う Ruby のサブセットで書き直したものと、
 Rust 版との比較結果です。
-
-[English](README.en.md) | 日本語
 
 ```
 sumi-spinel/
