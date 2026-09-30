@@ -1,0 +1,4444 @@
+{
+  "mode": "grayscale",
+  "count": 405,
+  "report_identical": 404,
+  "results": [
+    {
+      "input": "0013937297f6.pdf",
+      "bytes": 122402,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "034742a731b0.pdf",
+      "bytes": 433610,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.016164433082862088,
+        "max": 2
+      }
+    },
+    {
+      "input": "0040f8dcbd40.pdf",
+      "bytes": 2530271,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0004766845641640391,
+        "max": 1
+      }
+    },
+    {
+      "input": "000cc239cbe8.pdf",
+      "bytes": 1223872,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.23701111315773316,
+        "max": 1
+      }
+    },
+    {
+      "input": "038fc8f658b5.pdf",
+      "bytes": 7794093,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "049c2f01bfb8.pdf",
+      "bytes": 3551563,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "06b24130b532.pdf",
+      "bytes": 2187181,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.00267478152309613,
+        "max": 4
+      }
+    },
+    {
+      "input": "00c48831a2cf.pdf",
+      "bytes": 5020296,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.004044943820224719,
+        "max": 21
+      }
+    },
+    {
+      "input": "07c4103f99d7.pdf",
+      "bytes": 1034704,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "0843ac20bb83.pdf",
+      "bytes": 302489,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "09093e533519.pdf",
+      "bytes": 1013339,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "0534229b8e5e.pdf",
+      "bytes": 12623638,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.07467301826083322,
+        "max": 1
+      }
+    },
+    {
+      "input": "07117df5ffdb.pdf",
+      "bytes": 5367479,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.09657218481915116,
+        "max": 1
+      }
+    },
+    {
+      "input": "09517a799107.pdf",
+      "bytes": 9450190,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.015384722222222222,
+        "max": 2
+      }
+    },
+    {
+      "input": "0af9f67af360.pdf",
+      "bytes": 148395,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "0d20715ec3e0.pdf",
+      "bytes": 423509,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "0d69977946c7.pdf",
+      "bytes": 454735,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.025731401864332377,
+        "max": 2
+      }
+    },
+    {
+      "input": "0f236f4f1353.pdf",
+      "bytes": 8818693,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "0ab2879efc12.pdf",
+      "bytes": 2926150,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.005190177395615462,
+        "max": 2
+      }
+    },
+    {
+      "input": "0f5e44bcd531.pdf",
+      "bytes": 252197,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "101a9d97fcf7.pdf",
+      "bytes": 252071,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "101da064bf1d.pdf",
+      "bytes": 10229069,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "11464cf47c16.pdf",
+      "bytes": 1825735,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "1184604ab9c6.pdf",
+      "bytes": 191566,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.008818137216928758,
+        "max": 3
+      }
+    },
+    {
+      "input": "0ada6a48a4f0.pdf",
+      "bytes": 4115395,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.009284332688588007,
+        "max": 2
+      }
+    },
+    {
+      "input": "11fe64f7d189.pdf",
+      "bytes": 264559,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "1335d368b418.pdf",
+      "bytes": 2173667,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.02,
+        "max": 1
+      }
+    },
+    {
+      "input": "11fffa7da62b.pdf",
+      "bytes": 1388041,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.09575420905916332,
+        "max": 1
+      }
+    },
+    {
+      "input": "15eb7ab8804e.pdf",
+      "bytes": 481973,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "165625e9ed16.pdf",
+      "bytes": 2995663,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.022745758772949105,
+        "max": 1
+      }
+    },
+    {
+      "input": "178810f10637.pdf",
+      "bytes": 70724,
+      "rust_exit": 4,
+      "spinel_exit": 4,
+      "report_match": true
+    },
+    {
+      "input": "17c71627d7db.pdf",
+      "bytes": 2084289,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "18736ff7ee43.pdf",
+      "bytes": 6357761,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.013175,
+        "max": 2
+      }
+    },
+    {
+      "input": "18c77899e529.pdf",
+      "bytes": 3592385,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "15187fa7a916.pdf",
+      "bytes": 1997571,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.42304065040650407,
+        "max": 1
+      }
+    },
+    {
+      "input": "19fbf7736f47.pdf",
+      "bytes": 1418555,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "1a4989c4daad.pdf",
+      "bytes": 122837,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "1951b9aed5bd.pdf",
+      "bytes": 1651848,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "1aac99c4c492.pdf",
+      "bytes": 1249121,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "1ac4d8ca1612.pdf",
+      "bytes": 3075229,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.025908239700374532,
+        "max": 10
+      }
+    },
+    {
+      "input": "10056707286e.pdf",
+      "bytes": 17740773,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.113463895173454,
+        "max": 2
+      }
+    },
+    {
+      "input": "1e145f3a65b8.pdf",
+      "bytes": 1023370,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "1cbd4c6de69b.pdf",
+      "bytes": 631910,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0038603558241020477,
+        "max": 1
+      }
+    },
+    {
+      "input": "1ec8ddb18638.pdf",
+      "bytes": 3656621,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "1f8af4f4bbd2.pdf",
+      "bytes": 1171858,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.019561207649742743,
+        "max": 1
+      }
+    },
+    {
+      "input": "2130d9b4bffe.pdf",
+      "bytes": 434881,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "217ebb44936d.pdf",
+      "bytes": 10789816,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "21bf17f81899.pdf",
+      "bytes": 2635626,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.12121991978609625,
+        "max": 2
+      }
+    },
+    {
+      "input": "22bc4aab31f8.pdf",
+      "bytes": 344898,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.017132749761148553,
+        "max": 1
+      }
+    },
+    {
+      "input": "209ed2190c12.pdf",
+      "bytes": 4720619,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.11221590909090909,
+        "max": 16
+      }
+    },
+    {
+      "input": "236c4393a287.pdf",
+      "bytes": 380213,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "234b581c72cb.pdf",
+      "bytes": 9602258,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "23ef50e6bbd4.pdf",
+      "bytes": 995022,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.002533333333333333,
+        "max": 1
+      }
+    },
+    {
+      "input": "24ba1f1f15ad.pdf",
+      "bytes": 1072962,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0048529411764705885,
+        "max": 1
+      }
+    },
+    {
+      "input": "23848c215944.pdf",
+      "bytes": 452581,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.15265490952863175,
+        "max": 2
+      }
+    },
+    {
+      "input": "25d4136bfddf.pdf",
+      "bytes": 4965197,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0025305342525886333,
+        "max": 1
+      }
+    },
+    {
+      "input": "26e25a3c4850.pdf",
+      "bytes": 176739,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "26ebb693f074.pdf",
+      "bytes": 14019659,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "26ece671719e.pdf",
+      "bytes": 378393,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0028586311074070216,
+        "max": 2
+      }
+    },
+    {
+      "input": "27b7c6707929.pdf",
+      "bytes": 2168007,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.03649424174348646,
+        "max": 2
+      }
+    },
+    {
+      "input": "25483c8e7f61.pdf",
+      "bytes": 8996534,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.03943431712962963,
+        "max": 1
+      }
+    },
+    {
+      "input": "27e70e8f8b7a.pdf",
+      "bytes": 4122568,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.16865641711229948,
+        "max": 9
+      }
+    },
+    {
+      "input": "1a8fda558f98.pdf",
+      "bytes": 9160230,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.26675017921406485,
+        "max": 2
+      }
+    },
+    {
+      "input": "29d042928041.pdf",
+      "bytes": 205808,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.007540106951871657,
+        "max": 1
+      }
+    },
+    {
+      "input": "29d833fa6cf3.pdf",
+      "bytes": 6304312,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.024822860962566844,
+        "max": 1
+      }
+    },
+    {
+      "input": "29b5c0683580.pdf",
+      "bytes": 17916658,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.08072210602422082,
+        "max": 1
+      }
+    },
+    {
+      "input": "2a6502e2294d.pdf",
+      "bytes": 250668,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "2a0accc9dd6b.pdf",
+      "bytes": 1579473,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.010197192513368983,
+        "max": 3
+      }
+    },
+    {
+      "input": "27cee5f2936d.pdf",
+      "bytes": 4045148,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.01443867274461995,
+        "max": 1
+      }
+    },
+    {
+      "input": "2cc772aa2018.pdf",
+      "bytes": 2815352,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.007125,
+        "max": 1
+      }
+    },
+    {
+      "input": "2e9c244fe809.pdf",
+      "bytes": 207028,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "2e9e717d4403.pdf",
+      "bytes": 6349505,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.15169786096256685,
+        "max": 9
+      }
+    },
+    {
+      "input": "2d240b328a51.pdf",
+      "bytes": 11370052,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.07380186949673355,
+        "max": 2
+      }
+    },
+    {
+      "input": "2f0b87f35b99.pdf",
+      "bytes": 1562277,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0010777777777777778,
+        "max": 2
+      }
+    },
+    {
+      "input": "2cc7c862bc0b.pdf",
+      "bytes": 11680417,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0010748315128979783,
+        "max": 1
+      }
+    },
+    {
+      "input": "30bb281ffd42.pdf",
+      "bytes": 2900458,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.12664889476693325,
+        "max": 2
+      }
+    },
+    {
+      "input": "30feec292375.pdf",
+      "bytes": 2872579,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.10809809456598447,
+        "max": 2
+      }
+    },
+    {
+      "input": "311843d5899e.pdf",
+      "bytes": 5902880,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.00034536628192217316,
+        "max": 13
+      }
+    },
+    {
+      "input": "31be25d937c1.pdf",
+      "bytes": 1141230,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 5.555555555555556e-06,
+        "max": 1
+      }
+    },
+    {
+      "input": "3132aed581ba.pdf",
+      "bytes": 5638215,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "363917a7ad4d.pdf",
+      "bytes": 16380586,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "368e3d0412e7.pdf",
+      "bytes": 84704,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "324e5451e49b.pdf",
+      "bytes": 2246387,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.04107200647249191,
+        "max": 1
+      }
+    },
+    {
+      "input": "3879ab241846.pdf",
+      "bytes": 2555958,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "38fb3c390497.pdf",
+      "bytes": 139027,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.04449866310160428,
+        "max": 2
+      }
+    },
+    {
+      "input": "369573d160f7.pdf",
+      "bytes": 8250442,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "39e77046df05.pdf",
+      "bytes": 444355,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.08245803727731439,
+        "max": 2
+      }
+    },
+    {
+      "input": "36859b99163c.pdf",
+      "bytes": 2939029,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.1312700740120095,
+        "max": 2
+      }
+    },
+    {
+      "input": "3b6c2557d5e7.pdf",
+      "bytes": 5992508,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.22358432101634518,
+        "max": 1
+      }
+    },
+    {
+      "input": "3a98aee3269b.pdf",
+      "bytes": 2766537,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.026762891099992848,
+        "max": 1
+      }
+    },
+    {
+      "input": "3bcf1b34ea60.pdf",
+      "bytes": 1879998,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "3b24ef667a67.pdf",
+      "bytes": 2633462,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "3c7d7b0f5787.pdf",
+      "bytes": 3550682,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "3c098854c7c2.pdf",
+      "bytes": 4845457,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.013188502673796792,
+        "max": 2
+      }
+    },
+    {
+      "input": "3e40a734e762.pdf",
+      "bytes": 192291,
+      "rust_exit": 4,
+      "spinel_exit": 4,
+      "report_match": true
+    },
+    {
+      "input": "3d9dd3b4ef03.pdf",
+      "bytes": 19163200,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "3ff38a03eed3.pdf",
+      "bytes": 179905,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0014689789704063184,
+        "max": 2
+      }
+    },
+    {
+      "input": "4137b9484309.pdf",
+      "bytes": 2036425,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "417fe6a0f83d.pdf",
+      "bytes": 260066,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "3e6a85cb43ca.pdf",
+      "bytes": 2874328,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "3d9c3336726d.pdf",
+      "bytes": 2293657,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "440501c82a91.pdf",
+      "bytes": 14458340,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "44a7afe2fe02.pdf",
+      "bytes": 125076,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "44418195950c.pdf",
+      "bytes": 2016910,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "45baaa4bc81f.pdf",
+      "bytes": 1670418,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "47b2d140e11d.pdf",
+      "bytes": 127049,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "47cf33c4688e.pdf",
+      "bytes": 845451,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "437f62019ab9.pdf",
+      "bytes": 776635,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.002827289953872519,
+        "max": 1
+      }
+    },
+    {
+      "input": "481d57b61a0a.pdf",
+      "bytes": 904382,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 6.455444521909779e-06,
+        "max": 1
+      }
+    },
+    {
+      "input": "488ea59c79f8.pdf",
+      "bytes": 125235,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "48c850ce4ed5.pdf",
+      "bytes": 250268,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "45d407d719d9.pdf",
+      "bytes": 3527210,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.1292513368983957,
+        "max": 2
+      }
+    },
+    {
+      "input": "47db3fd0debe.pdf",
+      "bytes": 2990552,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "4903df0200fb.pdf",
+      "bytes": 7618063,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.06550390625,
+        "max": 1
+      }
+    },
+    {
+      "input": "48e17cce55d4.pdf",
+      "bytes": 18486416,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "496df0a4601b.pdf",
+      "bytes": 7455988,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "4a54e80bd6ac.pdf",
+      "bytes": 7678256,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.025011574074074075,
+        "max": 2
+      }
+    },
+    {
+      "input": "4bd6f939ce5d.pdf",
+      "bytes": 5587168,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.1020453439000191,
+        "max": 1
+      }
+    },
+    {
+      "input": "4eb48f37185e.pdf",
+      "bytes": 5102377,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "4eed546dfbc1.pdf",
+      "bytes": 79600,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 6.0662170925776945e-06,
+        "max": 21
+      }
+    },
+    {
+      "input": "505a1f2037ca.pdf",
+      "bytes": 236613,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "4c32667d9480.pdf",
+      "bytes": 3065466,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "521d7642d71d.pdf",
+      "bytes": 323663,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "522691d02024.pdf",
+      "bytes": 9601065,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "5227e309c5ee.pdf",
+      "bytes": 387633,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0031631678157357916,
+        "max": 1
+      }
+    },
+    {
+      "input": "52639f84a07e.pdf",
+      "bytes": 66273,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "4a349c2c79f0.pdf",
+      "bytes": 7432312,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.16012179818848984,
+        "max": 2
+      }
+    },
+    {
+      "input": "54162c60aa4c.pdf",
+      "bytes": 124676,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "5454911dbf3c.pdf",
+      "bytes": 10387409,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "554753270259.pdf",
+      "bytes": 3943013,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.019383333333333332,
+        "max": 4
+      }
+    },
+    {
+      "input": "57105d9d3cd3.pdf",
+      "bytes": 252358,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "573b7e79afbe.pdf",
+      "bytes": 5256390,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "5885de51e777.pdf",
+      "bytes": 5079646,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.18413729791805197,
+        "max": 4
+      }
+    },
+    {
+      "input": "58d594970795.pdf",
+      "bytes": 330989,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "590b8871295b.pdf",
+      "bytes": 2722163,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.06566587597424602,
+        "max": 2
+      }
+    },
+    {
+      "input": "595f79aa2f02.pdf",
+      "bytes": 1096880,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.10306135062009861,
+        "max": 1
+      }
+    },
+    {
+      "input": "59d1ef8bff1c.pdf",
+      "bytes": 124740,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "536d7252a05b.pdf",
+      "bytes": 18778771,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.011411028730305839,
+        "max": 2
+      }
+    },
+    {
+      "input": "59d54056f75b.pdf",
+      "bytes": 3115460,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.12004248016992068,
+        "max": 1
+      }
+    },
+    {
+      "input": "5afe54bc3ab2.pdf",
+      "bytes": 2915915,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.05630846976277982,
+        "max": 2
+      }
+    },
+    {
+      "input": "51b10c0c06a8.pdf",
+      "bytes": 3583448,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0690778533813454,
+        "max": 14
+      }
+    },
+    {
+      "input": "5b221e632747.pdf",
+      "bytes": 752746,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.15845240948826197,
+        "max": 1
+      }
+    },
+    {
+      "input": "5b2f6d900e47.pdf",
+      "bytes": 6368880,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.10737986417744726,
+        "max": 1
+      }
+    },
+    {
+      "input": "5c57ddcf1e62.pdf",
+      "bytes": 1619938,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.018702158846202566,
+        "max": 1
+      }
+    },
+    {
+      "input": "5dfad9ce86c8.pdf",
+      "bytes": 147803,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "5ef9c3de8518.pdf",
+      "bytes": 12339,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "5cf8a7ac7fae.pdf",
+      "bytes": 1283269,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.10120824107056899,
+        "max": 1
+      }
+    },
+    {
+      "input": "627ab9592b6b.pdf",
+      "bytes": 895308,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "61e8bdb88769.pdf",
+      "bytes": 406701,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.11495697492228674,
+        "max": 2
+      }
+    },
+    {
+      "input": "62d5c723c16d.pdf",
+      "bytes": 4792824,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "6306f8949b77.pdf",
+      "bytes": 132445,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.008351731350220775,
+        "max": 34
+      }
+    },
+    {
+      "input": "6321d0099b72.pdf",
+      "bytes": 714394,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.17210033408836906,
+        "max": 1
+      }
+    },
+    {
+      "input": "637d5a6aae5a.pdf",
+      "bytes": 1705909,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0431828691352755,
+        "max": 1
+      }
+    },
+    {
+      "input": "62eb1fb3dafa.pdf",
+      "bytes": 871832,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "6449e7329a39.pdf",
+      "bytes": 1322968,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.08873121188446693,
+        "max": 1
+      }
+    },
+    {
+      "input": "5cf0713782a4.pdf",
+      "bytes": 10291565,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.06494397235137976,
+        "max": 2
+      }
+    },
+    {
+      "input": "64e7d540b8f7.pdf",
+      "bytes": 2580032,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.01606651357469748,
+        "max": 1
+      }
+    },
+    {
+      "input": "680d446794b4.pdf",
+      "bytes": 4124736,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "68424410fbc4.pdf",
+      "bytes": 71969,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "67a20dcd29a0.pdf",
+      "bytes": 1301658,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.22451047596340118,
+        "max": 1
+      }
+    },
+    {
+      "input": "6bbeadc53cc4.pdf",
+      "bytes": 1871694,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 1.454353551785576,
+        "max": 144
+      }
+    },
+    {
+      "input": "6cacd0fb7700.pdf",
+      "bytes": 125328,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "6acd541e7a39.pdf",
+      "bytes": 993901,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.04276485788113695,
+        "max": 1
+      }
+    },
+    {
+      "input": "6cfdcb3daa6e.pdf",
+      "bytes": 908114,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.014127777777777777,
+        "max": 1
+      }
+    },
+    {
+      "input": "6dd498112ac9.pdf",
+      "bytes": 237442,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "6cf173a89fd0.pdf",
+      "bytes": 719309,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.16387606415628087,
+        "max": 1
+      }
+    },
+    {
+      "input": "6e608d391141.pdf",
+      "bytes": 589990,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.04012288786482335,
+        "max": 2
+      }
+    },
+    {
+      "input": "6e2b1592836d.pdf",
+      "bytes": 3649818,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.14586049820499525,
+        "max": 5
+      }
+    },
+    {
+      "input": "6f74a9634792.pdf",
+      "bytes": 6874895,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.002971294952427028,
+        "max": 1
+      }
+    },
+    {
+      "input": "7098795a4e8c.pdf",
+      "bytes": 693734,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.05650537634408602,
+        "max": 3
+      }
+    },
+    {
+      "input": "6e7dd756c2e1.pdf",
+      "bytes": 1632073,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.04267252747252747,
+        "max": 1
+      }
+    },
+    {
+      "input": "69a08329bdbc.pdf",
+      "bytes": 17160236,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "73377240ae25.pdf",
+      "bytes": 526892,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "7374acb4d959.pdf",
+      "bytes": 122954,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "75207eee24b5.pdf",
+      "bytes": 207315,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "734cee286777.pdf",
+      "bytes": 631582,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.04579492343842797,
+        "max": 4
+      }
+    },
+    {
+      "input": "75bf4e46369c.pdf",
+      "bytes": 300930,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "70f37d3480d1.pdf",
+      "bytes": 1149975,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "7638a0846349.pdf",
+      "bytes": 651507,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "76be54ce0cf1.pdf",
+      "bytes": 5946,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "76e1d615365a.pdf",
+      "bytes": 214221,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "755f6671518a.pdf",
+      "bytes": 13287589,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "77f5336e0f3a.pdf",
+      "bytes": 10497166,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "7711010e1eec.pdf",
+      "bytes": 6887644,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "7888cf2912a1.pdf",
+      "bytes": 160430,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 1.2910889043819557e-05,
+        "max": 1
+      }
+    },
+    {
+      "input": "783cc6f5929d.pdf",
+      "bytes": 573548,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0006594131223211342,
+        "max": 22
+      }
+    },
+    {
+      "input": "796bc86d6bd4.pdf",
+      "bytes": 5592685,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.11281908090288412,
+        "max": 2
+      }
+    },
+    {
+      "input": "79b06e14a2e1.pdf",
+      "bytes": 494935,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.00032277222609548894,
+        "max": 2
+      }
+    },
+    {
+      "input": "7897aa286885.pdf",
+      "bytes": 5413957,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.192416172624834,
+        "max": 2
+      }
+    },
+    {
+      "input": "7d08fa4c2e5c.pdf",
+      "bytes": 292325,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "7d245932f4c1.pdf",
+      "bytes": 959381,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "7bc5058f1f57.pdf",
+      "bytes": 2908649,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.019590122309155543,
+        "max": 2
+      }
+    },
+    {
+      "input": "7e2cd62695fa.pdf",
+      "bytes": 17981298,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "7f1d3fd8c4da.pdf",
+      "bytes": 1404734,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "7e6d3446bd76.pdf",
+      "bytes": 1493977,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "8121cd59456d.pdf",
+      "bytes": 281678,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "8181580d068e.pdf",
+      "bytes": 89457,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "81d352cb6204.pdf",
+      "bytes": 784591,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "7f2565bafbf4.pdf",
+      "bytes": 2904953,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0049930964716818635,
+        "max": 2
+      }
+    },
+    {
+      "input": "75d01b2fac4d.pdf",
+      "bytes": 3011250,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.06404764200756873,
+        "max": 11
+      }
+    },
+    {
+      "input": "8329d1db1b0c.pdf",
+      "bytes": 2441863,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.01105,
+        "max": 1
+      }
+    },
+    {
+      "input": "83cf4422b873.pdf",
+      "bytes": 13566905,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "84f2b895abc9.pdf",
+      "bytes": 5629100,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "83705ab6f7e6.pdf",
+      "bytes": 3322939,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.012824197860962568,
+        "max": 2
+      }
+    },
+    {
+      "input": "853e9cd002fc.pdf",
+      "bytes": 1345792,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.09544468546637744,
+        "max": 1
+      }
+    },
+    {
+      "input": "864aafb9bcc4.pdf",
+      "bytes": 252358,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "034c60a4e138.pdf",
+      "bytes": 9224463,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0007841320049562301,
+        "max": 36
+      }
+    },
+    {
+      "input": "857ca5d1ad76.pdf",
+      "bytes": 18292339,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "868f832c46f6.pdf",
+      "bytes": 18452,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "87261a935070.pdf",
+      "bytes": 2758197,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "86808917ec39.pdf",
+      "bytes": 17209820,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "86a84fe44576.pdf",
+      "bytes": 3014511,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 9.509514551370518e-05,
+        "max": 1
+      }
+    },
+    {
+      "input": "882c6a488cd3.pdf",
+      "bytes": 2288514,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.29290576202089325,
+        "max": 1
+      }
+    },
+    {
+      "input": "88eba7234950.pdf",
+      "bytes": 490653,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "88783cc4c1c1.pdf",
+      "bytes": 2147153,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.05066468487187848,
+        "max": 1
+      }
+    },
+    {
+      "input": "88f56ac86ac0.pdf",
+      "bytes": 12142869,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.044990144688029886,
+        "max": 1
+      }
+    },
+    {
+      "input": "8a5becd9d878.pdf",
+      "bytes": 199380,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "8ad67b0e8137.pdf",
+      "bytes": 9757198,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "8b7545a18651.pdf",
+      "bytes": 2109513,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "8c5afea81ff8.pdf",
+      "bytes": 208261,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "84d9e42ac4ba.pdf",
+      "bytes": 14334545,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.15581939936732261,
+        "max": 2
+      }
+    },
+    {
+      "input": "8d2c139b6f3d.pdf",
+      "bytes": 6366627,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "8d3a8ad37e2e.pdf",
+      "bytes": 22337,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "8d4e91b8efee.pdf",
+      "bytes": 474126,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.016474294419913757,
+        "max": 2
+      }
+    },
+    {
+      "input": "886b88e4e651.pdf",
+      "bytes": 11150154,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.1341417222289303,
+        "max": 2
+      }
+    },
+    {
+      "input": "8e6156df4341.pdf",
+      "bytes": 839053,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "8f3ee0d300f7.pdf",
+      "bytes": 3649745,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.18077245605547493,
+        "max": 12
+      }
+    },
+    {
+      "input": "90c102e6a686.pdf",
+      "bytes": 1163862,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "8c92f1561b0e.pdf",
+      "bytes": 12093564,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0021108217592592593,
+        "max": 1
+      }
+    },
+    {
+      "input": "91fb8c1dd32f.pdf",
+      "bytes": 855729,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "899d24760795.pdf",
+      "bytes": 10966387,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.1515025715150089,
+        "max": 2
+      }
+    },
+    {
+      "input": "91c9250ce70e.pdf",
+      "bytes": 2964194,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.001633227464043174,
+        "max": 5
+      }
+    },
+    {
+      "input": "92dc6fe43c70.pdf",
+      "bytes": 4271577,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "8ec72443f440.pdf",
+      "bytes": 9788360,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.009024711441629871,
+        "max": 1
+      }
+    },
+    {
+      "input": "932b21628e83.pdf",
+      "bytes": 319997,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.08240593202263403,
+        "max": 1
+      }
+    },
+    {
+      "input": "942f6eeda6cd.pdf",
+      "bytes": 262743,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "929ffc28f9da.pdf",
+      "bytes": 8103081,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "95449f23f30b.pdf",
+      "bytes": 171636,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "9564723dd885.pdf",
+      "bytes": 653083,
+      "rust_exit": 4,
+      "spinel_exit": 4,
+      "report_match": true
+    },
+    {
+      "input": "96af1b3d0d99.pdf",
+      "bytes": 124050,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "94ffd2a933f2.pdf",
+      "bytes": 3411496,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0008931401077530324,
+        "max": 1
+      }
+    },
+    {
+      "input": "936c39c8df4b.pdf",
+      "bytes": 9814725,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.009024711441629871,
+        "max": 1
+      }
+    },
+    {
+      "input": "97a277bd8ce4.pdf",
+      "bytes": 19261845,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "98a5acb813a8.pdf",
+      "bytes": 418530,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "981fe41499ba.pdf",
+      "bytes": 740800,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "9917d348c71f.pdf",
+      "bytes": 1879823,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "943c4093e48d.pdf",
+      "bytes": 3009889,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "9a3ca5daeb5f.pdf",
+      "bytes": 123352,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "9a949c5aa0f2.pdf",
+      "bytes": 752350,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "9a2b89660246.pdf",
+      "bytes": 1319267,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0066344087758695896,
+        "max": 3
+      }
+    },
+    {
+      "input": "9ab3f971438c.pdf",
+      "bytes": 737316,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "972b1abbafd7.pdf",
+      "bytes": 3052050,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.033322222222222225,
+        "max": 2
+      }
+    },
+    {
+      "input": "9ee810f22fa5.pdf",
+      "bytes": 121483,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "9d9c1bb99256.pdf",
+      "bytes": 499152,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "9f53d80993f8.pdf",
+      "bytes": 340624,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "9fb0f0294480.pdf",
+      "bytes": 30466,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "9c76330e5c62.pdf",
+      "bytes": 3362383,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "a06a07b0774f.pdf",
+      "bytes": 347410,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.029857168546253244,
+        "max": 2
+      }
+    },
+    {
+      "input": "9fb42d9971eb.pdf",
+      "bytes": 2949954,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "98aae62ca5d5.pdf",
+      "bytes": 3870586,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.053714778313142315,
+        "max": 2
+      }
+    },
+    {
+      "input": "a35922b00f44.pdf",
+      "bytes": 355706,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.017197304206367652,
+        "max": 1
+      }
+    },
+    {
+      "input": "9f91bfd49f5b.pdf",
+      "bytes": 911010,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.007588496836344981,
+        "max": 1
+      }
+    },
+    {
+      "input": "a43924ac20c5.pdf",
+      "bytes": 301309,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "a1fe2fd1a8e2.pdf",
+      "bytes": 2953215,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "a450bca1a321.pdf",
+      "bytes": 1718632,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.2503389108374003,
+        "max": 2
+      }
+    },
+    {
+      "input": "a4a5b51ccb69.pdf",
+      "bytes": 125929,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "a3c840d94073.pdf",
+      "bytes": 673850,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.18501524820536094,
+        "max": 2
+      }
+    },
+    {
+      "input": "a494e12a948f.pdf",
+      "bytes": 2576953,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.06069444444444445,
+        "max": 2
+      }
+    },
+    {
+      "input": "a5516d2b599d.pdf",
+      "bytes": 2751519,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.001726831409610866,
+        "max": 1
+      }
+    },
+    {
+      "input": "a631777353cb.pdf",
+      "bytes": 4823949,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "a6b8ef94796e.pdf",
+      "bytes": 123289,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "a6cbe531aa66.pdf",
+      "bytes": 1092517,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "a771651a0100.pdf",
+      "bytes": 584016,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "a6b0fd582cbb.pdf",
+      "bytes": 2125644,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "a8e9526a8743.pdf",
+      "bytes": 427623,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "a9937ad82d10.pdf",
+      "bytes": 372188,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.146951871657754,
+        "max": 5
+      }
+    },
+    {
+      "input": "aa30db1c7726.pdf",
+      "bytes": 1538606,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.20654848927875244,
+        "max": 1
+      }
+    },
+    {
+      "input": "ab46d2d291af.pdf",
+      "bytes": 1813675,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 4.679144385026738e-05,
+        "max": 1
+      }
+    },
+    {
+      "input": "ac01b94e59b4.pdf",
+      "bytes": 263817,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "a8d8528c558b.pdf",
+      "bytes": 10677683,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.006735637510199559,
+        "max": 1
+      }
+    },
+    {
+      "input": "ad4d8663c3f5.pdf",
+      "bytes": 386210,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "ad9ee1acf3ad.pdf",
+      "bytes": 3483591,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "a3535d71acdd.pdf",
+      "bytes": 4634139,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0819533601174151,
+        "max": 2
+      }
+    },
+    {
+      "input": "b0d466c1ac78.pdf",
+      "bytes": 1252380,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.02576278019674246,
+        "max": 15
+      }
+    },
+    {
+      "input": "b18934b64555.pdf",
+      "bytes": 1057261,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "b1d2d66648a6.pdf",
+      "bytes": 122294,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "af953dfbc14c.pdf",
+      "bytes": 719277,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.1943365940821951,
+        "max": 1
+      }
+    },
+    {
+      "input": "a61b1a52fb8f.pdf",
+      "bytes": 15830764,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "ad49f31a9069.pdf",
+      "bytes": 5259629,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "b3713f99340e.pdf",
+      "bytes": 2108059,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.01748663101604278,
+        "max": 1
+      }
+    },
+    {
+      "input": "b453df169f97.pdf",
+      "bytes": 1432390,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.018656234668319262,
+        "max": 3
+      }
+    },
+    {
+      "input": "b471f7b6ca7e.pdf",
+      "bytes": 856143,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.020805555555555556,
+        "max": 1
+      }
+    },
+    {
+      "input": "b4d3f9093d9d.pdf",
+      "bytes": 10247574,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "b244566a71ab.pdf",
+      "bytes": 10127117,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0005049189814814815,
+        "max": 1
+      }
+    },
+    {
+      "input": "b4c98b3265c1.pdf",
+      "bytes": 3117175,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.02695,
+        "max": 4
+      }
+    },
+    {
+      "input": "b513b7fa613f.pdf",
+      "bytes": 368358,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "b5a1448960e3.pdf",
+      "bytes": 7113883,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.012172284644194757,
+        "max": 10
+      }
+    },
+    {
+      "input": "b64475afdcfc.pdf",
+      "bytes": 124775,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "b75dd8038a42.pdf",
+      "bytes": 511965,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.008810399159663865,
+        "max": 1
+      }
+    },
+    {
+      "input": "b401fe1094c7.pdf",
+      "bytes": 13840720,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0017429700209156402,
+        "max": 1
+      }
+    },
+    {
+      "input": "b4d4a11f62f3.pdf",
+      "bytes": 4900121,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.11126238892060843,
+        "max": 1
+      }
+    },
+    {
+      "input": "b8d8741da084.pdf",
+      "bytes": 228005,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "b88ea2013e9f.pdf",
+      "bytes": 1540565,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 6.611836800516046e-05,
+        "max": 14
+      }
+    },
+    {
+      "input": "b9d1a79051a5.pdf",
+      "bytes": 19322733,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "b8d46dddda6a.pdf",
+      "bytes": 705305,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.02402105812739297,
+        "max": 1
+      }
+    },
+    {
+      "input": "bada6ac2dcba.pdf",
+      "bytes": 224331,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.3212359550561798,
+        "max": 11
+      }
+    },
+    {
+      "input": "bb1cdfd0c288.pdf",
+      "bytes": 437967,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.014082552224546182,
+        "max": 2
+      }
+    },
+    {
+      "input": "bad8ded4a03e.pdf",
+      "bytes": 1825154,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "bc324153cee9.pdf",
+      "bytes": 357241,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "bc465c795350.pdf",
+      "bytes": 2543754,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "bd3a8251913e.pdf",
+      "bytes": 607489,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "b9faea84d1a1.pdf",
+      "bytes": 836786,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.2912888026962721,
+        "max": 1
+      }
+    },
+    {
+      "input": "bd5c2f3da4bd.pdf",
+      "bytes": 2852047,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.006673848738268269,
+        "max": 2
+      }
+    },
+    {
+      "input": "bda3d590bb7a.pdf",
+      "bytes": 574218,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.022444301522122727,
+        "max": 2
+      }
+    },
+    {
+      "input": "bdddfa62e84f.pdf",
+      "bytes": 131876,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "bd81f09ad813.pdf",
+      "bytes": 1801403,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "bed6df318f28.pdf",
+      "bytes": 1472194,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "be339414df1d.pdf",
+      "bytes": 2725145,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.12375383991189938,
+        "max": 1
+      }
+    },
+    {
+      "input": "bf5d64e972c8.pdf",
+      "bytes": 2886617,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "c1cf22eba13e.pdf",
+      "bytes": 462568,
+      "rust_exit": 4,
+      "spinel_exit": 4,
+      "report_match": true
+    },
+    {
+      "input": "bbdff931ec66.pdf",
+      "bytes": 7773252,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.11251792282276667,
+        "max": 2
+      }
+    },
+    {
+      "input": "c3db44c88d95.pdf",
+      "bytes": 3664726,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "c589cbeb241e.pdf",
+      "bytes": 2196862,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "c800e0baa9d9.pdf",
+      "bytes": 544604,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0007052573140186434,
+        "max": 1
+      }
+    },
+    {
+      "input": "c8741825b93f.pdf",
+      "bytes": 184560,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "c89807a766ea.pdf",
+      "bytes": 15727803,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "c97193125731.pdf",
+      "bytes": 755704,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.05349957121182136,
+        "max": 1
+      }
+    },
+    {
+      "input": "bf0851a6c04a.pdf",
+      "bytes": 10379781,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.00036024305555555554,
+        "max": 1
+      }
+    },
+    {
+      "input": "caec07cd47df.pdf",
+      "bytes": 163287,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "c9ec1873dec3.pdf",
+      "bytes": 1879366,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.009784719432168206,
+        "max": 1
+      }
+    },
+    {
+      "input": "cb67c5dbe05a.pdf",
+      "bytes": 3177200,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "c4be76e3e1a1.pdf",
+      "bytes": 4580920,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.1020927021197011,
+        "max": 1
+      }
+    },
+    {
+      "input": "ccce13b067c9.pdf",
+      "bytes": 789186,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "cc6e308e2df3.pdf",
+      "bytes": 4761151,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.022013065819712345,
+        "max": 2
+      }
+    },
+    {
+      "input": "cd08dda4ca4b.pdf",
+      "bytes": 1431037,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.01591136079900125,
+        "max": 3
+      }
+    },
+    {
+      "input": "cd1c8380181b.pdf",
+      "bytes": 63055,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "cc629b350fbd.pdf",
+      "bytes": 5612324,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.017904411764705884,
+        "max": 2
+      }
+    },
+    {
+      "input": "cd14bd15d1b7.pdf",
+      "bytes": 3415815,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "cd43eae9b866.pdf",
+      "bytes": 3874831,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.00767698758264796,
+        "max": 2
+      }
+    },
+    {
+      "input": "ce946d2c182d.pdf",
+      "bytes": 1611104,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0038501026694045173,
+        "max": 1
+      }
+    },
+    {
+      "input": "ceaafbe2ea4c.pdf",
+      "bytes": 162231,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "cff949fe9c5e.pdf",
+      "bytes": 59144,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "d1dc22a88856.pdf",
+      "bytes": 307059,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "cd36e6cd521d.pdf",
+      "bytes": 11950024,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.028856951871657755,
+        "max": 3
+      }
+    },
+    {
+      "input": "d36d99fd4af4.pdf",
+      "bytes": 1239331,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "d2e591bb190f.pdf",
+      "bytes": 2200804,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0175747345233392,
+        "max": 1
+      }
+    },
+    {
+      "input": "d617269e4e06.pdf",
+      "bytes": 121470,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.00028074866310160427,
+        "max": 1
+      }
+    },
+    {
+      "input": "d31b469dcc7a.pdf",
+      "bytes": 3811109,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0662625,
+        "max": 6
+      }
+    },
+    {
+      "input": "d5a92b12a565.pdf",
+      "bytes": 4533836,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "d698271f1b26.pdf",
+      "bytes": 1247699,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "d9493e7549f5.pdf",
+      "bytes": 306140,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "d8db4e74e3a6.pdf",
+      "bytes": 2179485,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "da3915c75d4e.pdf",
+      "bytes": 109030,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.010343702287852122,
+        "max": 6
+      }
+    },
+    {
+      "input": "dac11e8152b8.pdf",
+      "bytes": 123024,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "b4e0286ce11e.pdf",
+      "bytes": 19185091,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "da2be0e189b9.pdf",
+      "bytes": 3764920,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.01892379679144385,
+        "max": 2
+      }
+    },
+    {
+      "input": "dae7536d82fc.pdf",
+      "bytes": 243930,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "dd9e62198aaa.pdf",
+      "bytes": 3463174,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "de4fc443fe73.pdf",
+      "bytes": 174952,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "d844aa325bdc.pdf",
+      "bytes": 1566742,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.026732067204690797,
+        "max": 1
+      }
+    },
+    {
+      "input": "e291574c6baf.pdf",
+      "bytes": 253604,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "db6a31d1cb15.pdf",
+      "bytes": 2585624,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "df1ff756e12d.pdf",
+      "bytes": 4088422,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0012708333333333332,
+        "max": 1
+      }
+    },
+    {
+      "input": "e48a029aa55e.pdf",
+      "bytes": 2822369,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.08445987654320988,
+        "max": 2
+      }
+    },
+    {
+      "input": "e4471bbcc3da.pdf",
+      "bytes": 2910791,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0944436994867919,
+        "max": 1
+      }
+    },
+    {
+      "input": "e855399bcb35.pdf",
+      "bytes": 1147152,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.09082810442327059,
+        "max": 10
+      }
+    },
+    {
+      "input": "e74f6294c986.pdf",
+      "bytes": 2682876,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "e8ca37f16bcb.pdf",
+      "bytes": 1335410,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.3503776702466659,
+        "max": 1
+      }
+    },
+    {
+      "input": "e65a2e7cf7dc.pdf",
+      "bytes": 4757861,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.017633333333333334,
+        "max": 1
+      }
+    },
+    {
+      "input": "ebe6b0febe6f.pdf",
+      "bytes": 6815022,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.023630154672450745,
+        "max": 1
+      }
+    },
+    {
+      "input": "ec03c6dafeca.pdf",
+      "bytes": 535982,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "ec2dbd299765.pdf",
+      "bytes": 249150,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "eaebd86c2dfc.pdf",
+      "bytes": 2842671,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.13463348321656385,
+        "max": 2
+      }
+    },
+    {
+      "input": "ef055446bac7.pdf",
+      "bytes": 2860642,
+      "rust_exit": 3,
+      "spinel_exit": 0,
+      "report_match": false,
+      "rust_report": "{\"status\":\"error\",\"exit_code\":3,\"mode\":\"grayscale\",\"gray_model\":\"luma\",\"report\":null,\"error\":{\"kind\":\"invalid_pdf\",\"message\":\"invalid PDF: object 243 used by a page could not be read\",\"details\":[]}}",
+      "spinel_report": "{\"status\":\"ok\",\"exit_code\":0,\"mode\":\"grayscale\",\"gray_model\":\"luma\",\"report\":{\"pages\":69,\"content_streams\":57,\"color_operators\":57,\"images\":0,\"shadings\":0,\"warnings\":[]},\"error\":null}"
+    },
+    {
+      "input": "ecc84f8db32c.pdf",
+      "bytes": 1569415,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "ef85d9a94672.pdf",
+      "bytes": 3574220,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.10094919786096257,
+        "max": 7
+      }
+    },
+    {
+      "input": "eb6d639c140e.pdf",
+      "bytes": 5207278,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.03832222222222222,
+        "max": 2
+      }
+    },
+    {
+      "input": "ddaa64358834.pdf",
+      "bytes": 10949289,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.1386507865416285,
+        "max": 2
+      }
+    },
+    {
+      "input": "f4473fa055c1.pdf",
+      "bytes": 1604541,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "f47c7920493f.pdf",
+      "bytes": 9943694,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "f2b5419e5428.pdf",
+      "bytes": 5583988,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "f6fa55834346.pdf",
+      "bytes": 125768,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "f7fc6083ba57.pdf",
+      "bytes": 2100958,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.001517029462648798,
+        "max": 2
+      }
+    },
+    {
+      "input": "f20762e72618.pdf",
+      "bytes": 4996084,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "f9926f5e7497.pdf",
+      "bytes": 3560079,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.062316666666666666,
+        "max": 3
+      }
+    },
+    {
+      "input": "f662e7c6d479.pdf",
+      "bytes": 5707334,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.12457025564863156,
+        "max": 2
+      }
+    },
+    {
+      "input": "fadebeb84ff5.pdf",
+      "bytes": 4164648,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.129528743315508,
+        "max": 7
+      }
+    },
+    {
+      "input": "ef84af6cb193.pdf",
+      "bytes": 14036518,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.03942777777777778,
+        "max": 1
+      }
+    },
+    {
+      "input": "fb642fd6248c.pdf",
+      "bytes": 10706454,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.027628761574074075,
+        "max": 1
+      }
+    },
+    {
+      "input": "fc2d4eb5d875.pdf",
+      "bytes": 3779288,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.00379580137888295,
+        "max": 3
+      }
+    },
+    {
+      "input": "fbe0b32a8eb1.pdf",
+      "bytes": 2651142,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.03269894384607341,
+        "max": 1
+      }
+    },
+    {
+      "input": "faac234751d3.pdf",
+      "bytes": 10591605,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.10611998694172996,
+        "max": 1
+      }
+    },
+    {
+      "input": "fe7ddb7b179f.pdf",
+      "bytes": 255780,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "f91ed07ad23a.pdf",
+      "bytes": 6990082,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.05085605308457676,
+        "max": 1
+      }
+    },
+    {
+      "input": "fe9eddfee593.pdf",
+      "bytes": 200919,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.2916439075630252,
+        "max": 1
+      }
+    },
+    {
+      "input": "fd155a4ca7cb.pdf",
+      "bytes": 4988265,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.027771515473411106,
+        "max": 1
+      }
+    },
+    {
+      "input": "ff2fbd08042d.pdf",
+      "bytes": 106932,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "fixture-chrome_invoice.pdf",
+      "bytes": 336740,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.4731098458439848,
+        "max": 221
+      }
+    },
+    {
+      "input": "fixture-gs_objstm_cmyk.pdf",
+      "bytes": 5035,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "fixture-libreoffice_table.pdf",
+      "bytes": 26977,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "fixture-quartz_graphics.pdf",
+      "bytes": 63863,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "fixture-ycck_jpeg.pdf",
+      "bytes": 22313,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.0,
+        "max": 0
+      }
+    },
+    {
+      "input": "ff146d0f6852.pdf",
+      "bytes": 7166361,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.047449866310160425,
+        "max": 2
+      }
+    },
+    {
+      "input": "fd67ce445750.pdf",
+      "bytes": 9116440,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.4123220218319886,
+        "max": 2
+      }
+    },
+    {
+      "input": "fe8ddc9b7976.pdf",
+      "bytes": 14691375,
+      "rust_exit": 0,
+      "spinel_exit": 0,
+      "report_match": true,
+      "render": {
+        "mean": 0.20842158646818412,
+        "max": 2
+      }
+    }
+  ]
+}

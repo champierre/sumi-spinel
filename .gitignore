@@ -1,0 +1,7 @@
+# The reference implementation is cloned, not vendored:
+#   git clone https://github.com/champierre/sumi.git rust-sumi
+/rust-sumi/
+
+# Build output and benchmark artefacts.
+/sumi/build/
+/bench/outputs/
